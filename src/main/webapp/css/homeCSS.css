@@ -1,0 +1,176 @@
+@charset "UTF-8";
+*{
+	margin:0;
+}
+.image-slider{
+	background-color:#EDE8F5;
+}
+#img1{
+	height:450px;
+	width:405px;
+}
+#img2
+{
+	height:450px;
+	width:405px;
+}
+#img3{
+	height:450px;
+	width:405px;
+}
+#img4{
+	height:450px;
+	width:405px;
+}
+#img5{
+	height:450px;
+	width:405px;
+}
+#img6{
+	height:450px;
+	width:405px;
+}
+#img7{
+	height:450px;
+	width:405px;
+}
+.flight-offers h2{
+	text-align:left;
+	color:rgb(7, 7, 41);
+	font-size:35px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight:400;
+	padding-left:20px;
+}
+#img8,#img9,#img10{
+	height:400px;
+	width:350px;
+	padding:11px 9px 9px 11px;
+	border-radius:6px;
+}
+#img11,#img12,#img13{
+	height:450px;
+	width:405px;
+}
+.flight-card p{
+	text-align:left;
+	color:rgb(7, 7, 41);
+	font-size:35px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight:400;
+	padding-left:20px;
+}
+.flight-card{
+	background-color:#EDE8F5;
+	padding-left:20px;
+	padding-right:20px;
+	
+	
+}
+ .flight-card a{
+	text-align:left;
+	color:rgb(7, 7, 41);
+	font-size:20px;
+	padding-left:20px;
+	
+}
+.flight-card a:hover{
+	color:blue;;
+	text-decoration-style:solid;
+	
+}
+.flight-card1{
+	background-color:#EDE8F5;
+	padding-left:20px;
+	padding-right:20px;
+	
+}
+.flight-card1 a{
+	text-align:left;
+	color:rgb(7, 7, 41);
+	font-size:20px;
+	padding-left:20px;
+}
+.flight-card1 p{
+	text-align:left;
+	color:rgb(7, 7, 41);
+	font-size:35px;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight:400;
+	padding-left:20px;
+}
+
+.image-slider p{
+	background-color:#8a2ea3;
+	color:white;
+	font-family:cursive;
+	margin-top:20px;
+}
+i{
+	color:white;
+	
+}
+.headln{
+	background-color:#8a2ea3;
+	color:white;
+	font-family:cursive;
+	
+	background-repeat: repeat-x;
+	
+}
+.imgs{
+	background-repeat: repeat-x;
+}
+.offer{
+	background-color:#bae4f3;
+	height:200px;
+	border-radius:13px;
+}
+#icon2{
+	color:black;
+	padding-right:12px;
+	padding-left:1150px;
+	padding-bottom:35px;
+	
+}
+#icon1{
+	color:black;
+	padding-left:30px;
+	padding-top:35px;
+	
+}
+.div4{
+	padding-bottom:50px;
+}
+.container{
+	color:rgb(7, 7, 41);
+	padding-left:130px;
+	
+	
+}
+.div1{
+	color:blue;
+	font-size:20px;
+	
+}
+.div2{
+	color:black;
+	font-size:27px;
+	font-weight:250;
+	font-family:'Times New Roman', Times, serif;
+}
+.div3{
+	color:black;
+	font-size:19px;
+	font-weight:170;
+}
+#id1{
+	color:white;
+	font-size:14px;
+}
+#id1,#id2,#id3{
+	position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
